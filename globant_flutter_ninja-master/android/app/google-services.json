@@ -1,0 +1,48 @@
+{
+    "project_info": {
+      "project_number": "745240082496",
+      "firebase_url": "https://easy-park-7571e.firebaseio.com",
+      "project_id": "easy-park-7571e",
+      "storage_bucket": "easy-park-7571e.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:745240082496:android:50d6e1c890fa36af",
+          "android_client_info": {
+            "package_name": "com.flutterNinja.JobFinder"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "745240082496-hgm30qmbbdvs2lnrusj087vlro2gsecv.apps.googleusercontent.com",
+            "client_type": 1,
+            "android_info": {
+              "package_name": "com.flutterNinja.JobFinder",
+              "certificate_hash": "a02ace4e3a08570c95d3a603cc7f170249f10915"
+            }
+          },
+          {
+            "client_id": "745240082496-et5pbfpn5j4nvsvvn005so427mj5blcf.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyCZnbkc6WGg_0jPKpY54VEpWzkmoELg3BE"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "745240082496-et5pbfpn5j4nvsvvn005so427mj5blcf.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
