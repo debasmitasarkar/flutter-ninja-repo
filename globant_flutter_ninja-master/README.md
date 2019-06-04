@@ -1,7 +1,10 @@
 # globant_flutter_ninja
 
-A new Flutter application.
-
+It is a Job Finder App based on #Hack19 theme developed in Flutter.
+The app targets -
+1. A minimalistic UI design
+2. It uses Firebase as Database
+3. AR is integrated to get city wise statistics of job data
 ## Getting Started
 
 This project is a starting point for a Flutter application.
